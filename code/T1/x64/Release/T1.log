@@ -1,0 +1,8 @@
+﻿  algo.cpp
+  functions.cpp
+  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 419 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  T1.vcxproj -> D:\Faculty\Faculty of Computer Science\III\GA\Homeworks\T1\code\x64\Release\T1.exe
